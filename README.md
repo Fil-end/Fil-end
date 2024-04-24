@@ -1,4 +1,8 @@
 # Shiyang Chen
+  Fil-end
+## Interest
+  AI for Chemistry  
+  にじげん  
 ## Education
 2019 - 2023; Shanghai, China
   - **East China University of Science and Technology**  
