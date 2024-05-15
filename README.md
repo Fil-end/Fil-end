@@ -3,6 +3,10 @@
 ## Interest
   AI for Chemistry  
   にじげん  
+## Work
+2023.7 - 2024.5; Remote, USA
+  - **QuanMol Tech Inc.**
+    Computational Chemistry Engineer
 ## Education
 2019 - 2023; Shanghai, China
   - **East China University of Science and Technology**  
