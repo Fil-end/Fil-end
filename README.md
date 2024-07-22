@@ -3,7 +3,7 @@
 ## :basketball: Interest
   AI for Chemistry  
   にじげん  
-## :Gear: Work
+## :gear: Work
 2023.7 - 2024.5; Remote, USA
   - **QuanMol Tech Inc.**  
     Computational Chemistry Engineer
