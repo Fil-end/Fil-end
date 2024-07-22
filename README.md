@@ -1,5 +1,5 @@
 # :wave: Shiyang Chen
-  Fil-end is currently a master at Industrial Catalysis section of [ECUST](#https://chem.ecust.edu.cn/)
+  Fil-end is currently a master at Industrial Catalysis section of [ECUST](https://chem.ecust.edu.cn/)
 ## :basketball: Interest
   AI for Chemistry  
   にじげん  
