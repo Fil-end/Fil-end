@@ -7,6 +7,11 @@
 2023.7 - 2024.5; Remote, USA
   - **QuanMol Tech Inc.**  
     Computational Chemistry Engineer
+
+2025.2(TBD) - 2025.5(TBD); Remote, Shenzhen  
+  - **Deep Principle Inc.**  
+    Machine Learning Engineer  
+
 ## :man_student: Education
 2019 - 2023; Shanghai, China
   - **East China University of Science and Technology**  
