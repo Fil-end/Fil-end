@@ -3,12 +3,14 @@
 ## :basketball: Interest
   AI for Chemistry  
   にじげん  
+  basketball  
+  
 ## :gear: Work
 2023.7 - 2024.5; Remote, USA
   - **QuanMol Tech Inc.**  
     Computational Chemistry Engineer
 
-2025.2 - 2025.5(TBD); Remote, Shenzhen  
+2025.2 - 2025.5(TBD); Remote, Shenzhen/Hangzhou  
   - **Deep Principle Inc.**  
     Machine Learning Engineer  
 
