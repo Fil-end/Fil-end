@@ -10,7 +10,7 @@
   - **QuanMol Tech Inc.**  
     Computational Chemistry Engineer
 
-2025.2 - 2025.5(TBD); Remote, Shenzhen/Hangzhou  
+2025.2 - 2025.8(TBD); Remote, Shenzhen/Hangzhou  
   - **Deep Principle Inc.**  
     Machine Learning Engineer  
 
