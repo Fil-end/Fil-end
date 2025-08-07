@@ -2,7 +2,7 @@
   Fil-end is currently a master at Industrial Catalysis section of [ECUST](https://chem.ecust.edu.cn/)
 ## 🖐 Interest  
 &emsp;&emsp;AI for Chemistry 🤖  
-&emsp;&emsp;にじげん 🐱
+&emsp;&emsp;にじげん 🐱  
 &emsp;&emsp;Basketball 🏀  
   
 ## ⚙️ Work
